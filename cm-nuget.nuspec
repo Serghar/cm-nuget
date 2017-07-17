@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Dojo.Template.CM</id>
+    <version>1.0</version>
+    <title>cm-template</title>
+    <authors>Dylan Sharkey</authors>
+    <owners>Dylan Sharkey</owners>
+    <projectUrl>https://github.com/Serghar/cm-nuget</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>dotnet new cli template living between default web and mvc templates with controller routing</description>
+    <releaseNotes>Initial Conversion of Yeoman Template.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>dotnetcore aspnetcore template</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>
